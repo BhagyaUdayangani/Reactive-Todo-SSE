@@ -1,0 +1,12 @@
+com/example/to_do_api/annotation/CurrentUserTest.class
+com/example/to_do_api/enums/TaskTypeTest.class
+com/example/to_do_api/ReactiveToDoApiApplicationTests.class
+com/example/to_do_api/annotation/TrackExecutionTimeTest.class
+com/example/to_do_api/controller/TaskControllerTest.class
+com/example/to_do_api/service/TaskServiceTest.class
+com/example/to_do_api/model/TaskTest.class
+com/example/to_do_api/repository/TaskRepositoryTest.class
+com/example/to_do_api/service/impl/TaskServiceImplTest.class
+com/example/to_do_api/model/TaskEventTest.class
+com/example/to_do_api/util/DateTimeUtilityTest.class
+com/example/to_do_api/model/AuditTest.class
