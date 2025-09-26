@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>to_do_api</artifactId>
+	<artifactId>Reactive-Todo-SSE</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Reactive To-Do API</name>
 	<description>Demo project for Reactive To-Do API using Spring Boot</description>
